@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <img height="250" src="https://media.licdn.com/dms/image/C4D16AQFUxl1GWBBcpQ/profile-displaybackgroundimage-shrink_350_1400/0/1645758916155?e=1689206400&v=beta&t=Nsas7u57y-0VUSOHrkqsP5vle7I4fGOZBTXgEAMc9kc"  />
+  <img height="200" src="https://media.licdn.com/dms/image/C4D16AQFUxl1GWBBcpQ/profile-displaybackgroundimage-shrink_350_1400/0/1645758916155?e=1689206400&v=beta&t=Nsas7u57y-0VUSOHrkqsP5vle7I4fGOZBTXgEAMc9kc"  />
 </div>
 
 ###
@@ -60,6 +62,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@MarcoAndrey&theme=dark" alt="Layout with last medium posts"  />
+</div>
 
 ###
