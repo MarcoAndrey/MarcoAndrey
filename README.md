@@ -60,12 +60,15 @@
 
 ###
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoandrey&show_icons=true&theme=dark)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=marcoandrey&show_icons=true&theme=dark" width = 400 style="style margin-right:16px;">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=marcoandrey&theme=dark&hide_border=true" width = 400>
+</p>
 
 ###
 
-[![](https://visitcount.itsvg.in/api?id=marcoandrey&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
-<a href="https://visitcount.itsvg.in">
+<a>
   <img src="https://visitcount.itsvg.in/api?id=marcoandrey&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
+
+###
