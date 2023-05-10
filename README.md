@@ -1,7 +1,5 @@
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4D16AQFUxl1GWBBcpQ/profile-displaybackgroundimage-shrink_350_1400/0/1645758916155?e=1689206400&v=beta&t=Nsas7u57y-0VUSOHrkqsP5vle7I4fGOZBTXgEAMc9kc"  />
+  <img src="https://media.licdn.com/dms/image/C4D16AQFUxl1GWBBcpQ/profile-displaybackgroundimage-shrink_350_1400/0/1645758916155?e=1689206400&v=beta&t=Nsas7u57y-0VUSOHrkqsP5vle7I4fGOZBTXgEAMc9kc"  />
 </div>
 
 ###
@@ -22,7 +20,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <a href="https://www.linkedin.com/in/marco-andrey/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
@@ -62,8 +60,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@MarcoAndrey&theme=dark" alt="Layout with last medium posts"  />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoandrey&show_icons=true&theme=dark)
 
 ###
+
+[![](https://visitcount.itsvg.in/api?id=marcoandrey&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=marcoandrey&label=Profile%20Views&color=12&icon=0&pretty=false" />
+</a>
