@@ -60,15 +60,29 @@
 
 ###
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=marcoandrey&show_icons=true&theme=dark" width = 400 style="style margin-right:16px;">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=marcoandrey&theme=dark&hide_border=true" width = 400>
+<p align = "center" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=marcoandrey&show_icons=true&theme=dark" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoandrey&langs_count=10&theme=tokyonight&layout=compact" width = 303>
+</p>
+
+###
+
+<p align="center">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=marcoandrey&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="[https://www.buymeacoffee.com/aveek.saha](https://marco-andrey-ui-ux.netlify.app/)"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" /></a>
 </p>
 
 ###
 
 <a>
-  <img src="https://visitcount.itsvg.in/api?id=marcoandrey&label=Profile%20Views&color=12&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=marcoandrey&label=Profile%20Views&color=12&icon=0&pretty=false"/>
 </a>
 
-###
+<!-- 
+<h4 align="center">Visitor's count </h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{marcoandrey}/count.svg" alt="marcoandrey :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs</h4>-->
