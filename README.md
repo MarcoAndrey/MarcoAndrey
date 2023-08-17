@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://media.licdn.com/dms/image/C4D16AQFUxl1GWBBcpQ/profile-displaybackgroundimage-shrink_350_1400/0/1645758916155?e=1689206400&v=beta&t=Nsas7u57y-0VUSOHrkqsP5vle7I4fGOZBTXgEAMc9kc](https://media.licdn.com/dms/image/C4D16AQFUxl1GWBBcpQ/profile-displaybackgroundimage-shrink_350_1400/0/1645758916155?e=1697673600&v=beta&t=alzjUxeXVTtclcX_fwq3K8QyhmSvGSRJni__mf45CkY)"  />
+  <img src="https://media.licdn.com/dms/image/C4D16AQFUxl1GWBBcpQ/profile-displaybackgroundimage-shrink_350_1400/0/1645758916155?e=1697673600&v=beta&t=alzjUxeXVTtclcX_fwq3K8QyhmSvGSRJni__mf45CkY"  />
 </div>
 
 ###
@@ -73,11 +73,9 @@
 </p>
 
 ###
-
-<a>
-  <img src="https://visitcount.itsvg.in/api?id=marcoandrey&label=Profile%20Views&color=12&icon=0&pretty=false"/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=MarcoAndrey&label=Profile%20Views&color=12&icon=2&pretty=false" />
 </a>
-
 <!-- 
 <h4 align="center">Visitor's count </h4>
 
