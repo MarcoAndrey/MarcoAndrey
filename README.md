@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hello World!! 🧑🏽‍💻 I am a junior developer passionate about technology, I am ready to take on new challenges as a developer.</p>
+<p align="left">"Hello World!! 🧑🏽‍💻 I am a frontend developer passionate about technology, always ready to take on new challenges and keep growing in the field."</p>
 
 ###
 
@@ -72,13 +72,9 @@
   <a href="https://marco-andrey-ui-ux.netlify.app/"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" /></a>
 </p>
 
-###
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=MarcoAndrey&label=Profile%20Views&color=12&icon=2&pretty=false" />
-</a>
 <!-- 
-<h4 align="center">Visitor's count </h4>
+<h4 align="center">Visitor's count </h4>-->
 
 <p align="center"><img src="https://profile-counter.glitch.me/{marcoandrey}/count.svg" alt="marcoandrey :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs</h4>-->
+<h4 align="center">Top langs</h4>
