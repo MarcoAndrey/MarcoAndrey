@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">👨🏽‍💻 Ul Designer ⎮ In-process Web Developer ⎮ Frontend Development Jr ⎮ Html, Css, JavaScript.</h3>
+<h3 align="left">👨🏽‍💻 Ul Designer ⎮ In-process Web Developer ⎮ Frontend Development ⎮ Html, Css, JavaScript.</h3>
 
 ###
 
