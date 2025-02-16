@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/C4D16AQFUxl1GWBBcpQ/profile-displaybackgroundimage-shrink_350_1400/0/1645758916481?e=1716422400&v=beta&t=mBLarysgxpU2NpXNv_DJXK4nIPsfGsa5RoM4J7u85PU"  />
+  <img src="https://res.cloudinary.com/dru97bxbj/image/upload/v1739665784/wj3itwmwuinrmqmphl5f.webp"  />
 </div>
 
 ###
